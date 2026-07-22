@@ -14,7 +14,7 @@
     "OVWD": "():<Image#-9223371949445478888>",
     "POS": "(0.0, 0.0)"
   },
-  "0": {
+  "1": {
     "DIAG": {
       "P0": {
         "S0": "* Lorem ipsum dolor sit amet",
@@ -29,7 +29,7 @@
     "OVWD": "():<Image#-9223371949445478888>",
     "POS": "(0.0, 0.0)"
   },
-  "0": {
+  "2": {
     "DIAG": {
       "P0": {
         "S0": "* Lorem ipsum dolor sit amet",
