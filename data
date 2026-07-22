@@ -1,6 +1,47 @@
-Lorem ipsum dolor sit amet
-* Tell me to grow wings...
-＊ オレを怒らすと…
-　 あとで後悔するぜ…
-＊ (そして　もう１つの　よこの
-　 マークは　DELTA RUNE)
+{
+  "0": {
+    "DIAG": {
+      "P0": {
+        "S0": "* Lorem ipsum dolor sit amet",
+        "S1": "* Lorem ipsum dolor sit amet"
+      },
+      "P1": {
+        "S0": "* Lorem ipsum dolor sit amet",
+        "S1": "* Lorem ipsum dolor sit amet"
+      }
+    },
+    "EMOT": "():<Image#-9223371949428701673>",
+    "OVWD": "():<Image#-9223371949445478888>",
+    "POS": "(0.0, 0.0)"
+  },
+  "0": {
+    "DIAG": {
+      "P0": {
+        "S0": "* Lorem ipsum dolor sit amet",
+        "S1": "* Lorem ipsum dolor sit amet"
+      },
+      "P1": {
+        "S0": "* Lorem ipsum dolor sit amet",
+        "S1": "* Lorem ipsum dolor sit amet"
+      }
+    },
+    "EMOT": "():<Image#-9223371949428701673>",
+    "OVWD": "():<Image#-9223371949445478888>",
+    "POS": "(0.0, 0.0)"
+  },
+  "0": {
+    "DIAG": {
+      "P0": {
+        "S0": "* Lorem ipsum dolor sit amet",
+        "S1": "* Lorem ipsum dolor sit amet"
+      },
+      "P1": {
+        "S0": "* Lorem ipsum dolor sit amet",
+        "S1": "* Lorem ipsum dolor sit amet"
+      }
+    },
+    "EMOT": "():<Image#-9223371949428701673>",
+    "OVWD": "():<Image#-9223371949445478888>",
+    "POS": "(0.0, 0.0)"
+  }
+}
